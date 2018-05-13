@@ -1,0 +1,7 @@
+#Volume of a Sphere v=4/3*Pi*r*r*r
+#Diameter is 12cm, so radius is 12/2=6cm
+
+pi=3.141592
+r=6
+v=4/3*pi*(r*r*r)
+print("Volume of the Sphere is ",v)
